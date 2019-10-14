@@ -1,0 +1,12 @@
+caption{
+  text-transform: uppercase;
+  font-weight: bold;
+}
+table, th, td {
+  border: 1px solid black;
+  padding: 5px;
+  text-transform: capitalize;
+}
+table {
+  border-collapse: collapse;
+}
